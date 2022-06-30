@@ -10,6 +10,12 @@
 ## Taller #2 Porcentajes y descuentos
 
 - Primer paso: Definir las fórmulas
-- Segundo paso: Inplementar las fórmulas en JavasScrip
+- Segundo paso: Implementar las fórmulas en JavasScrip
 - Tercer paso: Crear  funciones
 - Cuarto paso: Integrar Js con HTML
+
+## Taller #3 Porcentajes y descuentos
+
+- Primer paso: Definir las fórmulas
+- Segundo paso: Implementar las fórmulas en JavasScrip
+- Tercer paso: Crear  funciones
