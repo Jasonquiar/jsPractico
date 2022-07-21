@@ -38,7 +38,7 @@ function añadirArray() {
 }
 
 
-function calcularMediaAritmetica(lista) {
+function calcularMediaAritmetica() {
 
     // let sumaLista = 0;
     // for (let i = 0; i < lista.length; i++) {
